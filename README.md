@@ -1,4 +1,3 @@
 # MLOPS
 
-Git/GitHub!
-GitHub
+Git
